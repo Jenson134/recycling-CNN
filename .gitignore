@@ -1,0 +1,12 @@
+.venv
+Garbage_Dataset/
+Garbage_Dataset.zip
+*.h5
+*.keras
+*.pb
+*.tflite
+saved_models/
+models/
+*.ckpt
+__pycache__/
+*.pdf
