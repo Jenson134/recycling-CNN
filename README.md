@@ -88,4 +88,4 @@ Models are saved in the `models/` directory:
 
 ## License
 
-This project is for educational and research purposes. Dataset rights belong to the original Kaggle contributor.
+MIT License. Dataset rights belong to the original Kaggle contributor.
